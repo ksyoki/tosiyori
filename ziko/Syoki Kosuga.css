@@ -1,0 +1,25 @@
+@charset "UTF-8";
+    
+body{
+    margin: 0;
+    background-color: aquamarine;   
+}
+
+h1{
+    color: rgb(88, 102, 225);
+    background-color: rgb(88, 207, 225);
+    font-weight: bold;
+    margin-top: 0;
+}
+
+h2{
+    color: rgb(200, 93, 204);
+}
+ul{
+    display: flex;
+}
+
+.sns{
+    color: rgb(54, 152, 205);
+    background-color:  aquamarine;
+}
